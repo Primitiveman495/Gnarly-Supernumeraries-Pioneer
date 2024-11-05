@@ -169,7 +169,7 @@ if NpcNum.isdigit() == False or int(NpcNum) <= 0:  # Checks is the inputted valu
         print("Type a valid number next time butthead >:(")
         sys.exit()
 
-for NpcAsgn in range(float(NpcNum)):  # Goes through the code for each NPC instance and has the nessecary float
+for NpcAsgn in range(int(NpcNum)):
 
     Done = False  # Makes sure each instance gets to go through the while loop at least once
 
