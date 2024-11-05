@@ -6,6 +6,7 @@
 - Customizable NPC features such as:
   - Name
   - Age
+  - Ethnicity
   - Gender
   - Wealth
   - IQ
